@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-red?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
 
-I'm a Software Engineer, Technical Writer, and Community Engineer who is currently studying Frontend Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and others. 
+I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and others. 
 
 **Here's a quick summary about me**:
 
