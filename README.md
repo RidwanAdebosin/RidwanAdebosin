@@ -1,5 +1,7 @@
 # Hello there; welcome to my profile 👋🏾
- [![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-green?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
+[![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-green?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Ridwan_Adebosin?style=social)](https://twitter.com/Ridwan_Adebosin)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-red?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
 
@@ -9,7 +11,7 @@ I'm a Software Engineer, Technical Writer, and Community Engineer who is current
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning JavaScript, React.js and TypeScript.
-- - 🌱 I’m currently working as a a tech teaching assistant.
+- 🌱 I’m currently working as a a tech teaching assistant.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing adebosinadewale@gmail.com.
