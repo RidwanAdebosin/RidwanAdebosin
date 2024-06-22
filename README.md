@@ -1,6 +1,7 @@
 # Hello there; welcome to my profile 👋🏾
  [![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
- [![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
+[![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ridwan_Adebosin)
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
