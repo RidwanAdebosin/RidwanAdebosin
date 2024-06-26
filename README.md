@@ -14,7 +14,7 @@ I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm p
 - 🌱 I’m currently working as a a tech teaching assistant.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing adebosinadewale@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1gIoMuN1SMEcb0a88foB9x9UgtBJeWtYd7rSOcQDEr1g/edit?usp=sharing) and contact me by emailing adebosinadewale@gmail.com.
 
 ---
 
