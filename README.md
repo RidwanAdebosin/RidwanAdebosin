@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-red?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
 
 I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and others. 
