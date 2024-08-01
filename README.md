@@ -4,6 +4,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
+[![Medium Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@adebosinadewale_62859)](https://medium.com/@adebosinadewale_62859)
+
+
 
 I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm passionate about sharing knowledge, documentation, web engineering, and others. 
 
@@ -12,8 +15,8 @@ I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm p
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning JavaScript, React.js and TypeScript.
 - 🌱 I’m currently working as a a tech teaching assistant.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m looking for help with open source projects, hackathons, and speaking opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Mid level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1gIoMuN1SMEcb0a88foB9x9UgtBJeWtYd7rSOcQDEr1g/edit?usp=sharing) and contact me by emailing adebosinadewale@gmail.com.
 
 ---
