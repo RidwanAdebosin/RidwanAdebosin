@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ridwan-adebosin/)](https://www.linkedin.com/in/ridwan-adebosin/)
 
-[![Medium Badge](https://img.shields.io/badge/-Ridwan_Adebosin-blue?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@adebosinadewale_62859)](https://medium.com/@adebosinadewale_62859)
+[![Medium Badge](https://img.shields.io/badge/-Ridwan_Adebosin-green?style=for-the-badge&logo=medium&logoColor=black&link=https://medium.com/@adebosinadewale_62859)](https://medium.com/@adebosinadewale_62859)
 
 
 
