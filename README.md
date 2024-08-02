@@ -14,9 +14,9 @@ I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm p
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning JavaScript, React.js and TypeScript.
-- 🌱 I’m currently working as a a tech teaching assistant.
-- 😊 I’m looking for help with open source projects, hackathons, and speaking opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Mid level).
+- 🌱 I’m currently working as a tech teaching assistant.
+- 😊 I’m interested open source projects, hackathons, and speaking opportunities.
+- 💼 Job interests: Software Engineer, FrontEnd Engineer, Teaching or UI Engineer (Mid level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1gIoMuN1SMEcb0a88foB9x9UgtBJeWtYd7rSOcQDEr1g/edit?usp=sharing) and contact me by emailing adebosinadewale@gmail.com.
 
 ---
