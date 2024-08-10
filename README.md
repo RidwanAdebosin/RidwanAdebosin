@@ -23,3 +23,5 @@ I'm a Software Engineer, Technical Writer, Teacher and Community Engineer. I'm p
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=RidwanAdebosin&show_icons=true&include_all_commits=true&hide_border=true" alt="Ridwan's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanAdebosin&langs_count=8&layout=compact&hide_border=true" alt="Ridwan's GitHub stats" /> |
 | ------------- | ------------- |
+
+[![Ridwan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?RidwanAdebosin=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
