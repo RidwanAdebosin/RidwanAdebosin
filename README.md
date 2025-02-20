@@ -1,4 +1,9 @@
 # Hello there; welcome to my profile 👋🏾
+
+![](https://komarev.com/ghpvc/?username=RidwanAdebosin) 
+
+[![wakatime](https://wakatime.com/badge/user/018d44da-1a46-4707-a830-98c7a4c450ca.svg)](https://wakatime.com/@018d44da-1a46-4707-a830-98c7a4c450ca)
+
 [![Twitter Badge](https://img.shields.io/badge/-@Ridwan_Adebosin-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ridwan_Adebosin)](https://twitter.com/Ridwan_Adebosin)
 
 
