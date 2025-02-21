@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d44da-1a46-4707-a830-98c7a4c450ca.svg?style=for-the-badge)](https://wakatime.com/@018d44da-1a46-4707-a830-98c7a4c450ca)
 
-<p align="start" gap="3px">
+<p align="start">
   <a href="https://twitter.com/Ridwan_Adebosin">
     <img src="https://img.shields.io/badge/-@Ridwan_Adebosin-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
