@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I'm a Software Engineer, Technical Writer, Teacher and Community Manager. I'm passionate about sharing knowledge, documentation, web engineering, and others. 
+I'm a Software Engineer, Technical Writer, Teacher and Community Manager. I'm passionate about sharing knowledge, documentations, web engineering, and others. 
 
 **Here's a quick summary about me**:
 
