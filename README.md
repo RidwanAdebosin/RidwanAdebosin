@@ -24,7 +24,7 @@ I'm a Software Engineer, Technical Writer, Teacher and Community Manager. I'm pa
 - 🌱 I build web applications with JavaScript, React.js, TypeScript and NextJs.
 - 🌱 I’m currently working as a FrontEnd Developer.
 - 😊 I’m interested open source projects, hackathons, and speaking opportunities.
-- 💼 Job interests: Software Engineer, FrontEnd Engineer, Teaching or UI Engineer (Mid level).
+- 💼 Job interests: Software Engineer, FrontEnd Engineer, Teaching or UI Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1gIoMuN1SMEcb0a88foB9x9UgtBJeWtYd7rSOcQDEr1g/edit?usp=sharing) and contact me by emailing adebosinadewale@gmail.com.
 
 ---
